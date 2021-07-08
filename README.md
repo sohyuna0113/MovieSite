@@ -1,18 +1,8 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+### Home screen
+![Screen Shot 2021-07-08 at 8 18 00 PM](https://user-images.githubusercontent.com/65754324/124913563-39ecca80-e02a-11eb-9553-fbb1add6753f.png)
 
-To use this application, 
+### Movie info screen
+![Screen Shot 2021-07-08 at 8 18 49 PM](https://user-images.githubusercontent.com/65754324/124913689-66a0e200-e02a-11eb-9a3b-124e24768344.png)
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
-
-
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
-
-
+### Actor screen
+![Screen Shot 2021-07-08 at 8 19 01 PM](https://user-images.githubusercontent.com/65754324/124913745-77e9ee80-e02a-11eb-8fea-e91ec65dac60.png)
